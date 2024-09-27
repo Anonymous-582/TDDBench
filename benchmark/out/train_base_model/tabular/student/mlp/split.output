@@ -1,0 +1,15 @@
+nohup: ignoring input
+Dataset name: student, Model name: mlp, GPU: 0.
+tabular ['tabular']
+Path to the data: ../data/tabular/student
+Load data from ../data/tabular/student/student.pkl
+the whole dataset size: 4424
+Save target_dataset_splits and target_data_index.
+Save target_dataset_splits_ref.
+Save shadow_dataset_splits.
+Save subtar(0.5)_dataset_splits and subtar(0.5)_data_index.
+Save subtar(0.5)_shadow_dataset_splits.
+####################################################################################################
+End of run
+Run the code for the all steps costs 0.57356 seconds
+####################################################################################################

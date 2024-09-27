@@ -1,0 +1,135 @@
+Dataset name: student, Model name: mlp, GPU: 1.
+tabular ['tabular']
+Path to the data: ../data/tabular/student
+Load data from ../data/tabular/student/student.pkl
+the whole dataset size: 4424
+Train target models.
+Train reference models with target dataset.
+--------------------------------------------------
+Training the 6-th model:  Train size 1095, Test size 1117
+Load the optimizer Adam:  Learning rate 0.001 Weight decay 0.0001 
+Epoch: 1/200 | Train Loss: 1.06857622  Train Acc: 0.43287671  Val Loss: 1.00894344  Val Acc: 0.62309758  One step uses 1.79 seconds
+Epoch: 2/200 | Train Loss: 1.02771689  Train Acc: 0.53607306  Val Loss: 0.92997292  Val Acc: 0.61862131  One step uses 0.06 seconds
+Epoch: 3/200 | Train Loss: 0.93702424  Train Acc: 0.59817352  Val Loss: 0.83846432  Val Acc: 0.65622202  One step uses 0.09 seconds
+Epoch: 4/200 | Train Loss: 0.88214543  Train Acc: 0.62374429  Val Loss: 0.77062908  Val Acc: 0.66696509  One step uses 0.07 seconds
+Epoch: 5/200 | Train Loss: 0.81766347  Train Acc: 0.65114155  Val Loss: 0.80410412  Val Acc: 0.66965085  One step uses 0.07 seconds
+Epoch: 6/200 | Train Loss: 0.79052364  Train Acc: 0.67214612  Val Loss: 0.73195142  Val Acc: 0.70008953  One step uses 0.07 seconds
+Epoch: 7/200 | Train Loss: 0.76208141  Train Acc: 0.68310502  Val Loss: 0.73506424  Val Acc: 0.71083259  One step uses 0.11 seconds
+Epoch: 8/200 | Train Loss: 0.72743242  Train Acc: 0.69041096  Val Loss: 0.69766358  Val Acc: 0.71620412  One step uses 0.10 seconds
+Epoch: 9/200 | Train Loss: 0.72089170  Train Acc: 0.69954338  Val Loss: 0.71276838  Val Acc: 0.70635631  One step uses 0.06 seconds
+Epoch: 10/200 | Train Loss: 0.72870506  Train Acc: 0.70228311  Val Loss: 0.80420992  Val Acc: 0.67681289  One step uses 0.10 seconds
+Epoch: 11/200 | Train Loss: 0.71402177  Train Acc: 0.70319635  Val Loss: 0.74328572  Val Acc: 0.70635631  One step uses 0.08 seconds
+Epoch: 12/200 | Train Loss: 0.67996001  Train Acc: 0.70776256  Val Loss: 0.87950948  Val Acc: 0.62130707  One step uses 0.07 seconds
+Epoch: 13/200 | Train Loss: 0.73360364  Train Acc: 0.68949772  Val Loss: 0.71891019  Val Acc: 0.72515667  One step uses 0.06 seconds
+Epoch: 14/200 | Train Loss: 0.64353054  Train Acc: 0.71963470  Val Loss: 0.67900053  Val Acc: 0.70993733  One step uses 0.08 seconds
+Epoch: 15/200 | Train Loss: 0.66345885  Train Acc: 0.72420091  Val Loss: 0.77603278  Val Acc: 0.70277529  One step uses 0.10 seconds
+Epoch: 16/200 | Train Loss: 0.64776636  Train Acc: 0.72694064  Val Loss: 0.68408057  Val Acc: 0.72963295  One step uses 0.08 seconds
+Epoch: 17/200 | Train Loss: 0.64949435  Train Acc: 0.74337900  Val Loss: 0.67102629  Val Acc: 0.74574754  One step uses 0.05 seconds
+Epoch: 18/200 | Train Loss: 0.61135646  Train Acc: 0.73972603  Val Loss: 0.67112601  Val Acc: 0.73679499  One step uses 0.10 seconds
+Epoch: 19/200 | Train Loss: 0.60119858  Train Acc: 0.75616438  Val Loss: 0.60431778  Val Acc: 0.73231871  One step uses 0.10 seconds
+Epoch: 20/200 | Train Loss: 0.57940484  Train Acc: 0.75251142  Val Loss: 0.68607089  Val Acc: 0.73589973  One step uses 0.05 seconds
+Epoch: 21/200 | Train Loss: 0.58944814  Train Acc: 0.76073059  Val Loss: 0.71959847  Val Acc: 0.72963295  One step uses 0.13 seconds
+Epoch: 22/200 | Train Loss: 0.60271430  Train Acc: 0.74703196  Val Loss: 0.84108606  Val Acc: 0.71351835  One step uses 0.07 seconds
+Epoch: 23/200 | Train Loss: 0.66144769  Train Acc: 0.72876712  Val Loss: 0.65274748  Val Acc: 0.71978514  One step uses 0.05 seconds
+Epoch: 24/200 | Train Loss: 0.61201414  Train Acc: 0.74155251  Val Loss: 0.71187899  Val Acc: 0.73948075  One step uses 0.05 seconds
+Epoch: 25/200 | Train Loss: 0.55473332  Train Acc: 0.77625571  Val Loss: 0.61561987  Val Acc: 0.73231871  One step uses 0.10 seconds
+Epoch: 26/200 | Train Loss: 0.53931924  Train Acc: 0.77351598  Val Loss: 0.67935139  Val Acc: 0.74485228  One step uses 0.07 seconds
+Epoch: 27/200 | Train Loss: 0.55565429  Train Acc: 0.77442922  Val Loss: 0.69790855  Val Acc: 0.72157565  One step uses 0.08 seconds
+Epoch: 28/200 | Train Loss: 0.58067956  Train Acc: 0.76438356  Val Loss: 0.65561286  Val Acc: 0.74395703  One step uses 0.07 seconds
+Epoch: 29/200 | Train Loss: 0.54380023  Train Acc: 0.78812785  Val Loss: 0.79078782  Val Acc: 0.74932856  One step uses 0.06 seconds
+Epoch: 30/200 | Train Loss: 0.50860079  Train Acc: 0.79360731  Val Loss: 0.65473381  Val Acc: 0.73858550  One step uses 0.06 seconds
+Epoch: 31/200 | Train Loss: 0.49229456  Train Acc: 0.80456621  Val Loss: 0.64115450  Val Acc: 0.74306177  One step uses 0.06 seconds
+Epoch: 32/200 | Train Loss: 0.49173772  Train Acc: 0.80547945  Val Loss: 0.67625180  Val Acc: 0.72963295  One step uses 0.08 seconds
+Epoch: 33/200 | Train Loss: 0.45952587  Train Acc: 0.81278539  Val Loss: 0.69205704  Val Acc: 0.74753805  One step uses 0.06 seconds
+Epoch: 34/200 | Train Loss: 0.47826310  Train Acc: 0.80273973  Val Loss: 0.76519692  Val Acc: 0.73231871  One step uses 0.05 seconds
+Epoch: 35/200 | Train Loss: 0.51747854  Train Acc: 0.78812785  Val Loss: 0.77913034  Val Acc: 0.73142346  One step uses 0.08 seconds
+Epoch: 36/200 | Train Loss: 0.49172407  Train Acc: 0.79908676  Val Loss: 0.67268467  Val Acc: 0.72068039  One step uses 0.07 seconds
+Epoch: 37/200 | Train Loss: 0.46620680  Train Acc: 0.80913242  Val Loss: 0.74948594  Val Acc: 0.73410922  One step uses 0.05 seconds
+Epoch: 38/200 | Train Loss: 0.43860058  Train Acc: 0.83652968  Val Loss: 0.67120552  Val Acc: 0.74306177  One step uses 0.05 seconds
+Epoch: 39/200 | Train Loss: 0.41755276  Train Acc: 0.83105023  Val Loss: 0.76635182  Val Acc: 0.74574754  One step uses 0.09 seconds
+Epoch: 40/200 | Train Loss: 0.47199015  Train Acc: 0.80365297  Val Loss: 0.72845069  Val Acc: 0.72963295  One step uses 0.07 seconds
+Epoch: 41/200 | Train Loss: 0.43960509  Train Acc: 0.81552511  Val Loss: 0.72340775  Val Acc: 0.70904208  One step uses 0.07 seconds
+Epoch: 42/200 | Train Loss: 0.44443091  Train Acc: 0.82922374  Val Loss: 0.63007596  Val Acc: 0.73321397  One step uses 0.07 seconds
+Epoch: 43/200 | Train Loss: 0.40633383  Train Acc: 0.85296804  Val Loss: 0.68044335  Val Acc: 0.74664279  One step uses 0.07 seconds
+Epoch: 44/200 | Train Loss: 0.43099644  Train Acc: 0.82922374  Val Loss: 0.67379874  Val Acc: 0.74216652  One step uses 0.07 seconds
+Epoch: 45/200 | Train Loss: 0.42300286  Train Acc: 0.83835616  Val Loss: 0.78250566  Val Acc: 0.72157565  One step uses 0.06 seconds
+Epoch: 46/200 | Train Loss: 0.43898138  Train Acc: 0.83105023  Val Loss: 0.79332605  Val Acc: 0.70188004  One step uses 0.08 seconds
+Epoch: 47/200 | Train Loss: 0.49461594  Train Acc: 0.82009132  Val Loss: 0.76166615  Val Acc: 0.72873769  One step uses 0.08 seconds
+Epoch: 48/200 | Train Loss: 0.44105074  Train Acc: 0.81552511  Val Loss: 0.72129503  Val Acc: 0.71709937  One step uses 0.08 seconds
+Epoch: 49/200 | Train Loss: 0.43846523  Train Acc: 0.81552511  Val Loss: 0.65034395  Val Acc: 0.72336616  One step uses 0.08 seconds
+Epoch: 50/200 | Train Loss: 0.43223591  Train Acc: 0.83105023  Val Loss: 0.72890112  Val Acc: 0.73410922  Early stopped. ACC didn't improve for 20 epochs.
+Load best model parameters based on the validation set.
+Train accuracy 0.8100456621004566, Train Loss 0.5028190851211548
+Valid(Test) accuracy 0.7493285586392122, Valid(Test) Loss 0.6998309791088104
+--------------------------------------------------
+Prepare the models costs 10.93792 seconds.
+Train reference models with shadow dataset.
+--------------------------------------------------
+Training the 6-th model:  Train size 1121, Test size 1091
+Load the optimizer Adam:  Learning rate 0.001 Weight decay 0.0001 
+Epoch: 1/200 | Train Loss: 1.03958614  Train Acc: 0.40856378  Val Loss: 1.00135750  Val Acc: 0.49220898  One step uses 0.99 seconds
+Epoch: 2/200 | Train Loss: 1.00865883  Train Acc: 0.48795718  Val Loss: 0.97924283  Val Acc: 0.58845096  One step uses 0.08 seconds
+Epoch: 3/200 | Train Loss: 0.96078821  Train Acc: 0.59589652  Val Loss: 0.94526547  Val Acc: 0.56278643  One step uses 0.07 seconds
+Epoch: 4/200 | Train Loss: 0.90769811  Train Acc: 0.62176628  Val Loss: 0.86509806  Val Acc: 0.61961503  One step uses 0.06 seconds
+Epoch: 5/200 | Train Loss: 0.85433006  Train Acc: 0.63782337  Val Loss: 0.84418923  Val Acc: 0.64894592  One step uses 0.07 seconds
+Epoch: 6/200 | Train Loss: 0.80415010  Train Acc: 0.66636931  Val Loss: 0.80808017  Val Acc: 0.65169569  One step uses 0.09 seconds
+Epoch: 7/200 | Train Loss: 0.79329675  Train Acc: 0.67261374  Val Loss: 0.80336416  Val Acc: 0.65444546  One step uses 0.06 seconds
+Epoch: 8/200 | Train Loss: 0.74907563  Train Acc: 0.68956289  Val Loss: 0.72007361  Val Acc: 0.66911091  One step uses 0.09 seconds
+Epoch: 9/200 | Train Loss: 0.71080030  Train Acc: 0.70740410  Val Loss: 0.80192751  Val Acc: 0.68377635  One step uses 0.06 seconds
+Epoch: 10/200 | Train Loss: 0.68526781  Train Acc: 0.71989295  Val Loss: 0.75803962  Val Acc: 0.68835930  One step uses 0.06 seconds
+Epoch: 11/200 | Train Loss: 0.66565642  Train Acc: 0.72256913  Val Loss: 0.76828584  Val Acc: 0.70027498  One step uses 0.07 seconds
+Epoch: 12/200 | Train Loss: 0.66005529  Train Acc: 0.73059768  Val Loss: 0.69515637  Val Acc: 0.67919340  One step uses 0.16 seconds
+Epoch: 13/200 | Train Loss: 0.63593023  Train Acc: 0.74665477  Val Loss: 0.77120423  Val Acc: 0.69294225  One step uses 0.08 seconds
+Epoch: 14/200 | Train Loss: 0.59494355  Train Acc: 0.76628011  Val Loss: 0.77823269  Val Acc: 0.69202566  One step uses 0.08 seconds
+Epoch: 15/200 | Train Loss: 0.58851969  Train Acc: 0.75825156  Val Loss: 0.75324103  Val Acc: 0.68927589  One step uses 0.08 seconds
+Epoch: 16/200 | Train Loss: 0.59287201  Train Acc: 0.74843889  Val Loss: 0.66116211  Val Acc: 0.70119157  One step uses 0.06 seconds
+Epoch: 17/200 | Train Loss: 0.56744659  Train Acc: 0.76271186  Val Loss: 0.74661493  Val Acc: 0.68744271  One step uses 0.07 seconds
+Epoch: 18/200 | Train Loss: 0.52134622  Train Acc: 0.79928635  Val Loss: 0.74020040  Val Acc: 0.69660862  One step uses 0.08 seconds
+Epoch: 19/200 | Train Loss: 0.53004464  Train Acc: 0.78144514  Val Loss: 0.90842664  Val Acc: 0.69110907  One step uses 0.09 seconds
+Epoch: 20/200 | Train Loss: 0.58667180  Train Acc: 0.77787690  Val Loss: 0.71183825  Val Acc: 0.68835930  One step uses 0.08 seconds
+Epoch: 21/200 | Train Loss: 0.53936918  Train Acc: 0.80196253  Val Loss: 0.73809597  Val Acc: 0.70119157  One step uses 0.07 seconds
+Epoch: 22/200 | Train Loss: 0.52946731  Train Acc: 0.80017841  Val Loss: 0.77728796  Val Acc: 0.69294225  One step uses 0.06 seconds
+Epoch: 23/200 | Train Loss: 0.50434378  Train Acc: 0.80017841  Val Loss: 0.81674701  Val Acc: 0.69294225  One step uses 0.07 seconds
+Epoch: 24/200 | Train Loss: 0.49661985  Train Acc: 0.80999108  Val Loss: 0.80064881  Val Acc: 0.67461045  One step uses 0.07 seconds
+Epoch: 25/200 | Train Loss: 0.48427418  Train Acc: 0.81891169  Val Loss: 0.78854042  Val Acc: 0.69294225  One step uses 0.07 seconds
+Epoch: 26/200 | Train Loss: 0.45416963  Train Acc: 0.82783229  Val Loss: 0.76460609  Val Acc: 0.69385885  One step uses 0.06 seconds
+Epoch: 27/200 | Train Loss: 0.46913298  Train Acc: 0.81355932  Val Loss: 0.77182451  Val Acc: 0.70210816  One step uses 0.08 seconds
+Epoch: 28/200 | Train Loss: 0.48608580  Train Acc: 0.81355932  Val Loss: 0.71634096  Val Acc: 0.69660862  One step uses 0.07 seconds
+Epoch: 29/200 | Train Loss: 0.46733614  Train Acc: 0.81801963  Val Loss: 0.75838321  Val Acc: 0.70119157  One step uses 0.07 seconds
+Epoch: 30/200 | Train Loss: 0.42520269  Train Acc: 0.83675290  Val Loss: 0.76246884  Val Acc: 0.69752521  One step uses 0.09 seconds
+Epoch: 31/200 | Train Loss: 0.41401756  Train Acc: 0.84210526  Val Loss: 0.87947404  Val Acc: 0.70210816  One step uses 0.09 seconds
+Epoch: 32/200 | Train Loss: 0.42397571  Train Acc: 0.82694023  Val Loss: 0.82499835  Val Acc: 0.70394134  One step uses 0.10 seconds
+Epoch: 33/200 | Train Loss: 0.43162091  Train Acc: 0.83853702  Val Loss: 0.97012594  Val Acc: 0.66544455  One step uses 0.06 seconds
+Epoch: 34/200 | Train Loss: 0.42643106  Train Acc: 0.83407672  Val Loss: 0.92604351  Val Acc: 0.65169569  One step uses 0.08 seconds
+Epoch: 35/200 | Train Loss: 0.46526698  Train Acc: 0.81355932  Val Loss: 0.82902628  Val Acc: 0.70027498  One step uses 0.12 seconds
+Epoch: 36/200 | Train Loss: 0.41144713  Train Acc: 0.84834969  Val Loss: 0.85285872  Val Acc: 0.71494042  One step uses 0.08 seconds
+Epoch: 37/200 | Train Loss: 0.45486917  Train Acc: 0.81534344  Val Loss: 0.96451005  Val Acc: 0.68927589  One step uses 0.07 seconds
+Epoch: 38/200 | Train Loss: 0.41906322  Train Acc: 0.83318466  Val Loss: 0.78107661  Val Acc: 0.69110907  One step uses 0.11 seconds
+Epoch: 39/200 | Train Loss: 0.40434735  Train Acc: 0.85994648  Val Loss: 0.80426306  Val Acc: 0.69660862  One step uses 0.09 seconds
+Epoch: 40/200 | Train Loss: 0.36487526  Train Acc: 0.86262266  Val Loss: 0.79676050  Val Acc: 0.70485793  One step uses 0.09 seconds
+Epoch: 41/200 | Train Loss: 0.36908403  Train Acc: 0.86440678  Val Loss: 0.87819886  Val Acc: 0.70394134  One step uses 0.08 seconds
+Epoch: 42/200 | Train Loss: 0.37812806  Train Acc: 0.86262266  Val Loss: 0.81347537  Val Acc: 0.69477544  One step uses 0.10 seconds
+Epoch: 43/200 | Train Loss: 0.36134556  Train Acc: 0.85637823  Val Loss: 0.92333448  Val Acc: 0.64986251  One step uses 0.18 seconds
+Epoch: 44/200 | Train Loss: 0.34830281  Train Acc: 0.86440678  Val Loss: 0.76408178  Val Acc: 0.69110907  One step uses 0.06 seconds
+Epoch: 45/200 | Train Loss: 0.33876614  Train Acc: 0.88135593  Val Loss: 0.91416001  Val Acc: 0.69660862  One step uses 0.07 seconds
+Epoch: 46/200 | Train Loss: 0.37378659  Train Acc: 0.85013381  Val Loss: 0.91064543  Val Acc: 0.70760770  One step uses 0.05 seconds
+Epoch: 47/200 | Train Loss: 0.38439229  Train Acc: 0.86619090  Val Loss: 0.85381788  Val Acc: 0.70577452  One step uses 0.07 seconds
+Epoch: 48/200 | Train Loss: 0.41824524  Train Acc: 0.83853702  Val Loss: 0.88165712  Val Acc: 0.68377635  One step uses 0.06 seconds
+Epoch: 49/200 | Train Loss: 0.37836766  Train Acc: 0.85280999  Val Loss: 0.81242913  Val Acc: 0.69294225  One step uses 0.07 seconds
+Epoch: 50/200 | Train Loss: 0.37645686  Train Acc: 0.85459411  Val Loss: 0.89715084  Val Acc: 0.69844180  One step uses 0.07 seconds
+Epoch: 51/200 | Train Loss: 0.35861992  Train Acc: 0.86619090  Val Loss: 0.82707804  Val Acc: 0.70760770  One step uses 0.07 seconds
+Epoch: 52/200 | Train Loss: 0.33022839  Train Acc: 0.87421945  Val Loss: 0.92667508  Val Acc: 0.70852429  One step uses 0.07 seconds
+Epoch: 53/200 | Train Loss: 0.31445264  Train Acc: 0.88403211  Val Loss: 0.89303753  Val Acc: 0.70944088  One step uses 0.05 seconds
+Epoch: 54/200 | Train Loss: 0.32419899  Train Acc: 0.87600357  Val Loss: 0.99458176  Val Acc: 0.70669111  One step uses 0.06 seconds
+Epoch: 55/200 | Train Loss: 0.36475844  Train Acc: 0.85905442  Val Loss: 0.99980256  Val Acc: 0.70669111  One step uses 0.07 seconds
+Epoch: 56/200 | Train Loss: 0.36103554  Train Acc: 0.85905442  Val Loss: 0.88750973  Val Acc: 0.66177819  One step uses 0.09 seconds
+Epoch: 57/200 | Train Loss: 0.30816027  Train Acc: 0.88760036  Val Loss: 0.79965776  Val Acc: 0.70210816  Early stopped. ACC didn't improve for 20 epochs.
+Load best model parameters based on the validation set.
+Train accuracy 0.8162355040142729, Train Loss 0.47658917903900144
+Valid(Test) accuracy 0.7149404216315307, Valid(Test) Loss 0.876838892698288
+--------------------------------------------------
+Prepare the models costs 5.91707 seconds.
+####################################################################################################
+End of run
+Run the code for the all steps costs 17.36389 seconds
+####################################################################################################

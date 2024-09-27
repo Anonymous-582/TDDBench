@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./basic",
+        "./basic/extra_baselines"
+    ]
+}
