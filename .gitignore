@@ -16,7 +16,7 @@ data
 huggingface/models
 benchmark/meta_log
 benchmark/meta_log_copy
-benchmark/report_log
+# benchmark/report_log
 benchmark/out
 benchmark/scripts
 benchmark/table
