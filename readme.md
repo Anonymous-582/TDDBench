@@ -23,7 +23,7 @@ TDDBench is (to our best knowledge) **the most comprehensive training data detec
 
 The Figure below provides an overview of our proposed TDDBench (see our paper for details).
 
-![TDDBench](fig/TDDBench.jpg)
+![TDDBench](fig/TDDBench-v2.jpg)
 
 ---
 
