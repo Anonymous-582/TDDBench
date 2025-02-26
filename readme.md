@@ -100,3 +100,14 @@ The model establishment must specify the training dataset to determine the numbe
 ### Algorithm implementation
 
 We use functions from the Privacy Meter(MLPrivacy Meter: Aiding Regulatory Compliance by Quantifying the Privacy Risks of Machine Learning). All implementations of the TDD algorithm reference the original paper. Specifically, Query-ref and Query-quantile are implemented using the original code, while other methods have been integrated into our code framework.
+
+### References
+
+```python
+@article{zhu2024tddbench,
+  title={TDDBench: A Benchmark for Training data detection},
+  author={Zhu, Zhihao and Yang, Yi and Lian, Defu},
+  journal={arXiv preprint arXiv:2411.03363},
+  year={2024}
+}
+```
